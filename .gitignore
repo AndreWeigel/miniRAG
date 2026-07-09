@@ -1,3 +1,10 @@
 # created by virtualenv automatically
 .venv/bin
-.env
+.env.idea/
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.venv/
+data/index/
+data/processed/
